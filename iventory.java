@@ -5,7 +5,7 @@ public class Main {
         Inventory inventory = new Inventory(); 
  
         // Predefined values and names 
-        Item item1 = new Item("Laptop", 10, 800.00); 
+        Item item1 = new Item("Laptop", 10, 800.00);
         Item item2 = new Item("Smartphone", 20, 500.00); 
         Item item3 = new Item("Headphones", 50, 30.00); 
  
